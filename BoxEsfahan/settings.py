@@ -44,6 +44,7 @@ INSTALLED_APPS = [
     'corsheaders',
 
     'apiWeb.apps.ApiwebConfig'
+    'apiWeb.apps.IsfahanConfig'
 ]
 
 MIDDLEWARE = [
