@@ -1,0 +1,9 @@
+.idea/
+__pycache__
+db.sqlite3
+/venv/
+/migrations/
+/static_back/
+/.env
+/log.txt
+/apiWeb/migrations/
